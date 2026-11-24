@@ -1,0 +1,3 @@
+ 4 hours Review of Ansible and Kubernetes
+ 1 hoiur practice
+ 30 mins coding
